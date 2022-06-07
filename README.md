@@ -1,6 +1,9 @@
 ## Description
-*Insert here a brief description of the project, including, purpose, technologies used and context 
-where it was created.*
+Lab 1 : Market Microstructure 
+A quantitative analysis of the market microstructure for a crypto-asset market, for a particular period of time given the provided data.
+
+
+
 
 ## Install dependencies
 
@@ -12,10 +15,14 @@ Or you can manually install one by one using the name and version in the file.
 
 ## Funcionalities
 
-*Add here examples of core functionalities for the project in this repository.*
+-Calculate OrderBook metrics: Codes
+-Calculate PublicTrades metrics: Codes
+-Implement Codes for the plots:
+    OrderBook horizontal plot
+    PublicTrades price + volume time series plot
 
 ## Author
-*Add Name and a brief description on who you are.*
+*Marco Antonio Sánchez Covarrubias: Estudiante Ingeniería Financiera 9no semestre*
 
 ## License
 **GNU General Public License v3.0** 
@@ -26,4 +33,4 @@ works using a licensed work, under the same license. Copyright and license notic
 must be preserved. Contributors provide an express grant of patent rights.*
 
 ## Contact
-*For more information in reggards of this repo, please contact name@email.com*
+*For more information in reggards of this repo, please contact masc082000@gmail.com*

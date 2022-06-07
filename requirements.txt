@@ -1,10 +1,10 @@
 
 # -- --------------------------------------------------------------------------------------------------- -- #
-# -- project: A SHORT DESCRIPTION OF THE PROJECT                                                         -- #
+# -- project: Quantitative analysis of the market microstructure for a crypto-asset market                                                         -- #
 # -- script: requirements.txt : text file with the required libraries for the project                    -- #
-# -- author: YOUR GITHUB USER NAME                                                                       -- #
+# -- author: MarcoSC08                                                                       -- #
 # -- license: GPL-3.0 License                                                                            -- #
-# -- repository: YOUR REPOSITORY URL                                                                     -- #
+# -- repository: https://github.com/MarcoSC08/myst-masc-lab1                                                                      -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 
 pandas>=1.1.0
